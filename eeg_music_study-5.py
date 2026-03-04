@@ -77,7 +77,7 @@ condition_order = LATIN_SQUARE[(subject - 1) % 6]
 # Audio files
 # AUDIO_SWAP: replace these paths with your actual audio files
 AUDIO_FILES = {
-    'M': 'audio/beta_binaural_beats.mp3',   # AUDIO_SWAP: 14Hz beta beats study music
+    'M': 'power-focus-14hz-beta-waves-that-improve-concentration-and-focus_RlwnBgP1.mp3',   # AUDIO_SWAP: 14Hz beta beats study music
     'C': 'I Hate Models - Werewolf Disco Club [DI002].mp3',  # AUDIO_SWAP: non-entrainment control music
     'S': None,                               # Silence — no file needed
 }
